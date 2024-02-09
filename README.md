@@ -1,6 +1,6 @@
 
 
-<a href= "https://indiandukkan.netlify.app/" target="_blank"><h1>👉Indian_dukkan</a>
+<a href= "https://indiandukkan.netlify.app/" target="_blank"><h1>👉Indian_dukkan</h1></a>
 <h2>Title: "Welcome to Indian Dukkan: Celebrating Indian Handmade"</h2>
 
 <h3>Description:</h3>
