@@ -1,1 +1,1 @@
-<a href ="https://papaya-semolina-f66e9b.netlify.app/">Indianदुकान</a>
+<a href ="https://indiandukkan.netlify.app/>Indianदुकान</a>
