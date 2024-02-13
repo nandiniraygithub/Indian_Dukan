@@ -139,7 +139,6 @@ header nav .right-nav i {
   font-size: 80px;
   text-transform: capitalize;
   margin: 20px 0;
-  
 }
 
 .hero .content h1 span {
@@ -454,4 +453,11 @@ footer .bottom-footer .content p {
 footer .bottom-footer .content p span {
   color: orange;
   font-weight: bold;
+}
+
+.right-nav > button{
+  margin-left: 5rem;
+  width: 6rem;
+  height: 3rem;
+  cursor: pointer;
 }
