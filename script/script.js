@@ -41,8 +41,14 @@ document.addEventListener('DOMContentLoaded', function () {
       var cart = JSON.parse(localStorage.getItem('cart')) || [];
       var total = 0;
       
+
+      if (!cartElement || !totalElement) {
+         console.error("Cart elements not found.");
+         return;
+      }
+
       // Clear existing cart items
-      cartElement.innerHTML = '';
+      cartElement.innerHTML = ` `;
 
       cart.forEach(function (item) {
          var cartItem = document.createElement('div');
