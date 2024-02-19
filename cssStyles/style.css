@@ -455,9 +455,35 @@ footer .bottom-footer .content p span {
   font-weight: bold;
 }
 
-.right-nav > button{
+.right-nav > button {
   margin-left: 5rem;
   width: 6rem;
   height: 3rem;
   cursor: pointer;
+  border-radius: 2rem;
+  background-color: #108cd3;
+}
+
+.right-nav > button:hover {
+  transition: ease-out;
+  background-color: rgb(0, 89, 255);
+}
+
+#carousel-container {
+  width: 80%;
+  height: 90vh;
+  margin: auto;
+  overflow: hidden;
+}
+
+#carousel {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.carousel-item {
+  min-width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
